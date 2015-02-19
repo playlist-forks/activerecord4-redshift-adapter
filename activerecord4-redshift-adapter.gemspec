@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.platform = Gem::Platform::RUBY
-  s.name = 'activerecord4-redshift-adapter'
+  s.name = 'playlist-activerecord4-redshift-adapter'
   s.version = '0.1.1'
   s.summary = 'Amazon Redshift adapter for ActiveRecord 4'
   s.description = 'Amazon Redshift _makeshift_ adapter for ActiveRecord 4.'
